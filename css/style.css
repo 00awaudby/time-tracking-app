@@ -94,7 +94,7 @@ h1{
 }
 
 .profile-image{
-    background: url(/images/WIN_20240614_20_48_15_Pro.jpg) no-repeat top/cover;
+    background: url(./images/WIN_20240614_20_48_15_Pro.jpg) no-repeat top/cover;
     border: 4px solid white;
     border-radius: 50%;
     height: 100px;
