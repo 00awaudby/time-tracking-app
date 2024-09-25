@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+<script src="/app.js"defer></script>
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <title>Frontend Mentor | Time tracking dashboard</title>
+</head>
+<body>
+<!-- displays the container that houses all of the pages content -->
+  <main class="container">
+    <!-- the sidebar for the profile -->
+    <div class="profile-side-bar">
+      <div class="foreground">
+        <div class="profile-image"></div>
+        <div class="profile-info">
+          <p>Report for</p>
+          <h1>Ashley Waudby</h1>
+        </div>
+
+      </div>
+      <div class="background">
+        <p id="daily" class="opacity">Daily</p>
+        <p id="weekly" class="bold">Weekly</p>
+        <p id="monthly" class="opacity">Monthly</p>
+      </div>
+
+    </div>
+<!-- a grid of boxes -->
+    <div class="grid-of-boxes">
+      <!-- a box within the grid -->
+      <div class="box">
+        <div class="box-background"></div>
+        <div class="box-foreground">
+          <div class="box-title">
+            <p class="bold">Work</p>
+            <p class="hamburger">. . .</p>
+          </div>
+          <div class="box-info">
+            <h1 class="hours">32 hrs</h1>
+            <p class="opacity last-time">Last Week - 36hrs</p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="box">
+        <div class="box-background box-background-two"></div>
+        <div class="box-foreground">
+          <div class="box-title">
+            <p class="bold">Play</p>
+            <p class="hamburger">. . .</p>
+          </div>
+          <div class="box-info">
+            <h1 class="hours">10 hrs</h1>
+            <p class="opacity last-time">Last Week - 8hrs</p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="box">
+        <div class="box-background box-background-three"></div>
+        <div class="box-foreground">
+          <div class="box-title">
+            <p class="bold">Study</p>
+            <p class="hamburger">. . .</p>
+          </div>
+          <div class="box-info">
+            <h1 class="hours">4 hrs</h1>
+            <p class="opacity last-time">Last Week - 7hrs</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="box">
+        <div class="box-background box-background-four"></div>
+        <div class="box-foreground">
+          <div class="box-title">
+            <p class="bold">Exercise</p>
+            <p class="hamburger">. . .</p>
+          </div>
+          <div class="box-info">
+            <h1 class="hours">4 hrs</h1>
+            <p class="opacity last-time">Last Week - 5hrs</p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="box">
+        <div class="box-background box-background-five"></div>
+        <div class="box-foreground">
+          <div class="box-title">
+            <p class="bold">Social</p>
+            <p class="hamburger">. . .</p>
+          </div>
+          <div class="box-info">
+            <h1>5 hrs</h1>
+            <p class="opacity last-time">Last Week - 10hrs</p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="box">
+        <div class="box-background box-background-six"></div>
+        <div class="box-foreground">
+          <div class="box-title">
+            <p class="bold">Self Care</p>
+            <p class="hamburger">. . .</p>
+          </div>
+          <div class="box-info">
+            <h1 class="hours">2 hrs</h1>
+            <p class="opacity last-time">Last Week - 2hrs</p>
+          </div>
+        </div>
+
+      </div>
+      
+
+      
+    </div>
+  </main>
+</body>
+</html>
