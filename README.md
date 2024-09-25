@@ -82,6 +82,6 @@ I looked through how others got this challege done and i also researched how to 
 
 ## Author
 
-- Website - [Ashley Waudby Portfolio]([https://www.your-site.com](https://00awaudby.github.io/Portfolio/))
+- Website - [Ashley Waudby Portfolio](https://00awaudby.github.io/Portfolio/)
 - Frontend Mentor - [@00awaudby]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/00awaudby))
 - Github - [00awaudby]([https://www.twitter.com/yourusername](https://github.com/00awaudby))
