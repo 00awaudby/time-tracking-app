@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com
-- Live Site URL: https://00awaudby.github.io/time-tracking-app/
+- Live Site URL: [Time Tracking App](https://00awaudby.github.io/time-tracking-app/)
 
 ## My process
 
