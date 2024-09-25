@@ -30,13 +30,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 
+
+![Screenshot_25-9-2024_131553_00awaudby github io](https://github.com/user-attachments/assets/6329d28d-2517-42ff-8d4d-485c844fb78c)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://00awaudby.github.io/time-tracking-app/))
 
 ## My process
 
@@ -81,6 +82,6 @@ I looked through how others got this challege done and i also researched how to 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ashley Waudby Portfolio]([https://www.your-site.com](https://00awaudby.github.io/Portfolio/))
+- Frontend Mentor - [@00awaudby]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/00awaudby))
+- Github - [00awaudby]([https://www.twitter.com/yourusername](https://github.com/00awaudby))
